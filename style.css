@@ -62,3 +62,12 @@ body{
 #clearTodo:active{
     background-color: blue;
 }
+
+.text{
+    margin: 0;
+    cursor: pointer;
+    font-size: 35px;
+    color: purple;
+    text-transform: capitalize;
+
+}
